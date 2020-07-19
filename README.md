@@ -41,18 +41,18 @@ Python Depedencies:
     - Best fit model used a C of 10 and Penalty l2.
     - Score was 0.63.  
 > Random Forest
->> First Random Forest
-     - Original Training Data Score: 0.99
-     - Original Testing Data Score: 0.84
-     - Recall score was only 3%
+>> First Random Forest:
+   - Original Training Data Score: 0.99
+   - Original Testing Data Score: 0.84
+   - Recall score was only 3%
    - Completed a Grid Search using max_depth and min_samples_leaf
      - Best fit model used max_depth of 7 and min_samples_leaf of 4
      - Score was 0.85
      - Finding risk, precision was 0.50 and recall was 0.03
 >> Second Random Forest
    - For the second random forest, we changed the class_weight to balanced
-     - Original Training Score: 0.998
-     - Original Testing Score: 0.85
+   - Original Training Score: 0.998
+   - Original Testing Score: 0.85
    - For the Grid Search, we changed the max_depth to 5.
      - Best fit model chose min_samples_leaf of 1.
      - Score was 0.71
