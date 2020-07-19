@@ -1,6 +1,6 @@
 # Coronary Heart Disease
 
-![]()
+![](https://drtanandpartners.com.my/wp-content/uploads/2019/02/heart-disease-1140x628.jpg)
 
 ### Why Coronary Heart Disease?
 About 1 in every 4 deaths each year are caused by heart disease. Coronary Heart Disease is the most common type of heart disease, causing over half the heart disease deaths in 2017.
