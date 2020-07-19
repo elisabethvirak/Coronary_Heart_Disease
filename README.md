@@ -1,14 +1,30 @@
-# final_project
+# Coronary Heart Disease
 
+![]()
 
-Budget data
-https://www.census.gov/data/datasets/2017/econ/local/public-use-datasets.html
+### Why Coronary Heart Disease?
+About 1 in every 4 deaths each year are caused by heart disease. Coronary Heart Disease is the most common type of heart disease, causing over half the heart disease deaths in 2017.
+Looking for comorbid factors and being able to predict heart disease in patients could help doctors prevent its occurrence and could lower these statistics. 
 
-Incarceration rate
-https://worldpopulationreview.com/state-rankings/prison-population-by-state
+Using a dataset containing 4,000 records from Framingham, Massachusetts, we examined common factors used to predict heart disease to create a machine learning model that would predict the likeliness of developing Coronary Heart Disease in the next 10 years.
 
-Unemployment rate
-https://www.bls.gov/web/laus/lauhsthl.htm
+We used the following tools:
+ Python:
+  - SciKit Learn
+  - joblib
+  - Pandas
+  - Matplotlib
+  - Numpy
+  
+### INSTRUCTIONS FOR USE
 
-Life expectancy
-https://worldpopulationreview.com/state-rankings/life-expectancy-by-state
+Python Depedencies:
+  - sklearn
+  - joblib
+  - pandas
+  - matplotlib.pyplot
+  - numpy
+  - os
+
+#### CREDIT TO:
+Kaggle for the dataset: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
